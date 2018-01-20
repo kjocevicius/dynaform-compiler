@@ -5,6 +5,8 @@
 This is a nodeJS lib for building finalized JSON objects of forms.
 Mostly it includes resources, such as classifiers, to form objects.
 
+[![NPM](https://nodei.co/npm/dform-compiler.png)](https://nodei.co/npm/dform-compiler/)
+
 ## DFormCompiler
 
 Compiler's constructor requires IResourceProvider object.
