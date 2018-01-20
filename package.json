@@ -1,7 +1,16 @@
 {
   "name": "dform-compiler",
   "version": "0.0.1",
+  "author": "Karolis Jocevičius",
   "description": "Completes form json object with referenced items",
+  "keywords": [
+    "forms",
+    "dynamic",
+    "dynaform", 
+    "angular",
+    "ng"
+  ],
+  "license": "GPL-3.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -12,8 +21,6 @@
     "prepare": "npm run build",
     "prepublishOnly": "npm run lint && npm run test"
   },
-  "author": "Karolis Jocevičius",
-  "license": "GPL-3.0",
   "dependencies": {
     "@types/node": "^9.3.0",
     "typescript": "^2.6.2"
