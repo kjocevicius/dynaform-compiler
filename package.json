@@ -1,0 +1,21 @@
+{
+  "name": "dform-compiler",
+  "version": "0.0.1",
+  "description": "Completes form json object with referenced items",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jasmine",
+    "build": "tsc",
+    "start": "npm run build && node dist",
+    "prepublish": "npm run build"
+  },
+  "author": "Karolis Jocevičius",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@types/node": "^9.3.0",
+    "jasmine": "^2.9.0",
+    "tslint": "^5.9.1",
+    "typescript": "^2.6.2"
+  }
+}
