@@ -1,4 +1,5 @@
-import { Option } from './model/dynamic-form.model';
+import { Option } from 'dform-model';
+
 
 /**
  * Provides needed resources for compiler
