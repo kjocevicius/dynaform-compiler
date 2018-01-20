@@ -1,10 +1,10 @@
-import { IResourceProvider } from './dform-resource-provider';
+import IResourceProvider from './dform-resource-provider';
 import { DForm, DFormControl, Option, HasClassifier, HasControls } from './model/dynamic-form.model';
 
 /**
  * Adds missing referenced resources to the form
  */
-export class DFormCompiler {
+export default class DFormCompiler {
 
   constructor(private resourceProvider: IResourceProvider) { }
 
