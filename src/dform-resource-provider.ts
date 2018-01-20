@@ -1,4 +1,4 @@
-import { Option } from 'dform-model';
+import { Option } from 'dynaform-model';
 
 
 /**

@@ -1,5 +1,5 @@
 import IResourceProvider from './dform-resource-provider';
-import { DForm, HasControls, HasClassifier, DFormControl, Option } from 'dform-model';
+import { DForm, HasControls, HasClassifier, DFormControl, Option } from 'dynaform-model';
 
 /**
  * Adds missing referenced resources to the form

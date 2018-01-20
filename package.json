@@ -1,8 +1,12 @@
 {
-  "name": "dform-compiler",
-  "version": "0.0.2",
+  "name": "dynaform-compiler",
+  "version": "0.0.3",
   "author": "Karolis Jocevičius",
   "description": "Completes form json object with referenced items",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teraxas/dform-model"
+  },
   "keywords": [
     "forms",
     "dynamic",
@@ -23,7 +27,7 @@
   },
   "dependencies": {
     "@types/node": "^9.3.0",
-    "dform-model": "0.0.2",
+    "dynaform-model": "0.0.2",
     "typescript": "^2.6.2"
   },
   "devDependencies": {

@@ -1,6 +1,6 @@
 import IResourceProvider from '../src/dform-resource-provider';
 import DFormCompiler from '../src/dform-compiler';
-import { DForm, FIELD_TYPE, DFormControl, DFormFieldOptions, CONTAINER_TYPE, DFormContainer } from 'dform-model';
+import { DForm, FIELD_TYPE, DFormControl, DFormFieldOptions, CONTAINER_TYPE, DFormContainer } from 'dynaform-model';
 
 const mockProvider: IResourceProvider = {
   getClassifierById: (id) => {
