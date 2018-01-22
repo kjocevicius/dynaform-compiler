@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/teraxas/dform-compiler.svg?branch=master)](https://travis-ci.org/teraxas/dform-compiler)
+[![Build Status](https://travis-ci.org/teraxas/dynaform-compiler.svg?branch=master)](https://travis-ci.org/teraxas/dynaform-compiler)
 
 # dynaform-ng dynamic forms compiler
 
